@@ -2,7 +2,6 @@
 Author: Ben Frey
 Original Source: https://www.codingpanel.com/build-a-simple-web-application-using-node-js-mysql/
 All Rights Reserved to the Original Owner
-
 Description: Modified web app that can store events in a simple list by accessing
 on of our MySQL databases (Team Database).
 */
